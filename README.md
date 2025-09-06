@@ -1,4 +1,4 @@
-# CustomizeUI
+# CustomiseUI
 
 A lightweight, themeable React component library with scoped theming support. Designed for fast prototyping and production-ready UI, with components that adapt to **light**, **dark**, or **custom** themes.
 
@@ -18,13 +18,13 @@ A lightweight, themeable React component library with scoped theming support. De
 
 ~~~bash
 # Using npm
-npm install customize-ui
+npm install customise-ui
 
 # Using yarn
-yarn add customize-ui
+yarn add customise-ui
 
 # Using pnpm
-pnpm add customize-ui
+pnpm add customise-ui
 ~~~
 
 ---
@@ -33,7 +33,7 @@ pnpm add customize-ui
 
 ~~~tsx
 import React from "react";
-import { ThemeProvider, CUButton, CUCard, CUText, CUInput } from "customize-ui";
+import { ThemeProvider, CUButton, CUCard, CUText, CUInput } from "customise-ui";
 
 const App = () => {
   return (

@@ -1,5 +1,5 @@
 {
-  "name": "customize-ui",
+  "name": "customise-ui",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.cjs",
@@ -41,18 +41,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axewhyzed/customize-ui.git"
+    "url": "git+https://github.com/axewhyzed/customise-ui.git"
   },
-  "homepage": "https://github.com/axewhyzed/customize-ui#readme",
+  "homepage": "https://github.com/axewhyzed/customise-ui#readme",
   "bugs": {
-    "url": "https://github.com/axewhyzed/customize-ui/issues"
+    "url": "https://github.com/axewhyzed/customise-ui/issues"
   },
   "keywords": [
     "react",
-    "ui",
     "components",
+    "custom",
+    "theme",
     "tailwind",
-    "customize-ui"
-  ],
+    "ui",
+    "design-system",
+    "library",
+    "ui",
+    "customize-ui",
+    "customise-ui"
+  ]
   "license": "MIT"
 }
