@@ -1,4 +1,4 @@
 // src/index.ts
 import "./styles/index.css"; // reset + theme
 
-export * from "./components";  // exports everything from components/index.ts
+export * from "./components/index";  // exports everything from components/index.ts
