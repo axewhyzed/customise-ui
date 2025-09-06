@@ -56,9 +56,8 @@
     "ui",
     "design-system",
     "library",
-    "ui",
     "customize-ui",
     "customise-ui"
-  ]
+  ],
   "license": "MIT"
 }
